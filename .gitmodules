@@ -1,0 +1,13 @@
+[submodule "themes/themes/oceanic-zen"]
+	path = themes/themes/oceanic-zen
+	url = https://github.com/barlog-m/oceanic-zen.git
+[submodule "themes/oceanic-zen"]
+	path = themes/oceanic-zen
+	url = https://github.com/barlog-m/oceanic-zen.git
+[submodule "themes/blow"]
+	path = themes/blow
+	url = git@github.com:tchartron/blow.git
+	branch = main
+[submodule "themes/boring"]
+	path = themes/boring
+	url = https://github.com/ssiyad/boring

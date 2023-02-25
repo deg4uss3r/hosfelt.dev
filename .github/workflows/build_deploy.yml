@@ -1,0 +1,20 @@
+name: Go package
+
+on: [push]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+    - name: Install Rust
+      uses: actions-rs/toolchain@v1 
+      with:
+        toolchain: stable
+    - name: build css
+      run: cd ./themes/boring
+      run: yarn build
+    - name: build site
+      run: cd ../../
+      run: zola build
