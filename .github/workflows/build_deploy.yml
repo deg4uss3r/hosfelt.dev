@@ -12,7 +12,8 @@ jobs:
           tool: zola@0.17.1
       - name: build
         run: |
-          cd ./themes/boring/templates/
+          cd ./themes/boring/
+          yarn install --frozen-lockfile
           yarn build
           cd ../../
           zola build
