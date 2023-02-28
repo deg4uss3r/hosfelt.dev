@@ -1,20 +1,15 @@
-name: hosfelt.dev build
-
+name: Hosfelt.dev Build
 on: [push]
-
 jobs:
   build:
-    
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-    - name: Install Rust
-      uses: actions-rs/toolchain@v1 
-      with:
-        toolchain: stable
-    - name: build css
-      run: cd ./themes/boring
-      run: yarn build
-    - name: build site
-      run: cd ../../
-      run: zola build
+      - name: checkout
+        uses: actions/checkout@v3
+      - name: build
+        uses: shalzz/zola-deploy-action@v0.16.1-1
+        run: |
+          cd ./themes/boring/
+          yarn build
+          cd ../../
+          zola build
