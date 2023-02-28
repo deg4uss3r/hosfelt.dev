@@ -12,7 +12,7 @@ jobs:
           tool: zola@0.17.1
       - name: build
         run: |
-          cd ./themes/boring/
+          cd ./themes/boring/templates/
           yarn build
           cd ../../
           zola build
