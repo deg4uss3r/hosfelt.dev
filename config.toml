@@ -1,5 +1,5 @@
 # The URL the site will be built for
-base_url = "Ricky.Hosfelt.dev"
+base_url = "/"
 compile_sass = false
 build_search_index = false
 theme = "boring"
