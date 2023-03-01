@@ -1,5 +1,5 @@
 # The URL the site will be built for
-base_url = "ricky.hosfelt.dev"
+base_url = "Ricky.Hosfelt.dev/test/"
 compile_sass = false
 build_search_index = false
 theme = "boring"
@@ -25,9 +25,9 @@ homepage_img_url = "/homepage-img.jpg"
 # Refer https://icons8.com/line-awesome for list of icons
 # Both `url` and `icon` should be set for each entry
 [[extra.social]]
-url = "https://github.com/ssiyad/boring"
+url = "https://github.com/deg4uss3r"
 icon = "lab la-github"
 
 [[extra.social]]
-url = "https://github.com/ssiyad"
+url = "https://fosstodon.org/@degausser"
 icon = "lab la-mastodon"
