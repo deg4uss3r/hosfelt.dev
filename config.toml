@@ -1,5 +1,5 @@
 # The URL the site will be built for
-base_url = "Ricky.Hosfelt.dev/test/"
+base_url = "Ricky.Hosfelt.dev"
 compile_sass = false
 build_search_index = false
 theme = "boring"
@@ -18,8 +18,8 @@ render_emoji = true
 smart_punctuation = true
 
 [extra]
-homepage_title = "Hello, I am a boring guy!"
-homepage_subtitle = "I love to sit around all day, doing nothing."
+homepage_title = "Ricky Hosfelt"
+homepage_subtitle = "Engineering Manager && Software Developer"
 homepage_img_url = "/homepage-img.jpg"
 
 # Refer https://icons8.com/line-awesome for list of icons
