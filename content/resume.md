@@ -1,6 +1,6 @@
 ---
 title: "Ricky Hosfelt"
-date: 2020-04-01T02:01:58+05:30
+date: 2023-03-01T17:20:05
 description: "Ricky Hosfelt's Resume"
 tags: [resume, cv, job, data]
 ---
@@ -11,6 +11,7 @@ tags: [resume, cv, job, data]
 
 - [Github](https://github.com/deg4uss3r)
 - [Linkedin](https://linkedin.com/in/ricky-hosfelt)
+- [Mastodon](https://fosstodon.org/@degausser)
 
 ## Contact
 
@@ -23,7 +24,15 @@ Rust, Networking, Open Source Software, Command Line Interfaces, Tooling, DevOps
 
 ## Work Experience
 
-###  Engineering Manager (20210901 - Present) – 1Password
+### Engineering Manger (20220801 - Present) - 1Password
+
+- Job change due to Technology Department reorganization 
+- Current Manager of the Frameworks team in Product, Frameworks, and Tooling organization
+- Manages team of 10
+- Experience building an organization from scratch with peer EMs under the direction of the CTO
+- Focuses on scalability, performance, and correctness of APIs within 1Password code bases (Rust, Swift, Kotlin, TypeScript)
+
+###  Engineering Manager (20210901 - 20220801) – 1Password
 - Managing the Apple Client Apps team [8 developers]
 - Coaching iOS developers through 1-on-1s, general developer advice, and team building activities
 - Spearheading a hiring initiative to standardize the hiring process; including educating new interviewers, helping avoid bias, and increasing diversity at the company
@@ -39,7 +48,7 @@ Rust, Networking, Open Source Software, Command Line Interfaces, Tooling, DevOps
 ### Software Developer (20190215 - 20200529) – Carnegie Mellon Software Engineering Institute (SEI)
 - Lead Software Developer for [xView2 Challenge](https://xview2.org/)
 - Developed and maintained [xView2 baseline code](https://github.com/DIUx-xView/xview2-baseline)
-- Interviewed and selected data labeling contractor
+- Interviewed and selected data labelling contractor
 - Maintained discord challenge of hundred of solvers and answered questions on the baseline code, docker, and the challenge
 
 ###  Computer Engineer (20150619 - 20190207) – Department of Defense
