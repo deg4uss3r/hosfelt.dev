@@ -19,6 +19,7 @@ jobs:
           zola build
       - name: Publish
         uses: nogsantos/scp-deploy@master
+        if: startsWith(github.ref, 'refs/tags/v')
         with:
           src: ./public/*
           host: ${{ secrets.SSH_HOST }}
