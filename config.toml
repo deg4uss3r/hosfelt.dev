@@ -20,7 +20,7 @@ smart_punctuation = true
 [extra]
 homepage_title = "Ricky Hosfelt"
 homepage_subtitle = "Engineering Manager && Software Developer"
-homepage_img_url = "/homepage-img.jpg"
+homepage_img_url = "/me.png"
 
 # Refer https://icons8.com/line-awesome for list of icons
 # Both `url` and `icon` should be set for each entry
