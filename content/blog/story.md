@@ -6,7 +6,7 @@ tags: [general, management, story, post]
 ---
 
 
-From an early point in my [career](https://ricky.hosfelt.dev/resume/] I have always wanted to lead. Not out of ego, but I have always loved helping others.
+From an early point in my [career](https://ricky.hosfelt.dev/resume/) I have always wanted to lead. Not out of ego, but I have always loved helping others.
 
 In high school I was part of a small company (woo Spearfish Industries, thanks Steve and Dave ;)) that helped local businesses with the internet, websites, graphic design, and videography. This was my entry into computer science and I absolutely loved it I went from the lead graphic designer to the network admin and started to really enjoy setting up routers and explaining the settings to grandmas and business owners alike.
 
